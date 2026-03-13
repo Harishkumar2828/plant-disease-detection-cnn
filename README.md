@@ -61,4 +61,11 @@ Possible improvements for this project include:
 - Using advanced CNN architectures like ResNet or EfficientNet
 - Deploying the model as a web application using Flask
 - Creating a mobile app for farmers to upload leaf images
-  
+
+## Technologies Used
+
+Python  
+TensorFlow  
+Keras  
+NumPy  
+Pandas
