@@ -1,2 +1,2 @@
 # plant-disease-detection-cnn
-Deep Learning model to detect plant diseases using CNN and TensorFlow
+Plant Disease Detection using CNN trained on the PlantVillage dataset to classify plant leaf diseases using TensorFlow and Keras.
